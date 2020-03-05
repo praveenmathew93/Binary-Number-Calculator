@@ -1,0 +1,2 @@
+This code accepts a number in the command line and outputs it's binary equivalent.
+Enter the number that you want converted to it's binary equivalent after you specify the name of the script - Binary.py
